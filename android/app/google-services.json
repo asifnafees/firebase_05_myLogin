@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "959873388810",
+    "project_id": "fir-myapp-f72ed",
+    "storage_bucket": "fir-myapp-f72ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959873388810:android:b38673fc10e85b48fb2af3",
+        "android_client_info": {
+          "package_name": "com.asifnafees.firebase_02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBASH2hPeMaoC0BpKuwyESzQzrU7dHF8j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959873388810:android:46c11c40a239fc69fb2af3",
+        "android_client_info": {
+          "package_name": "com.asifnafees.firebase_05"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBASH2hPeMaoC0BpKuwyESzQzrU7dHF8j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959873388810:android:f6be5591d1618562fb2af3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_04"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBASH2hPeMaoC0BpKuwyESzQzrU7dHF8j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
